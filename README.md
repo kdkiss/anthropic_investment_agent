@@ -1,4 +1,3 @@
-Here is a sample README.md file for the provided code:
 
 ## 📊 Anthropic Investment Agent
 
