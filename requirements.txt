@@ -1,3 +1,6 @@
 streamlit 
 phidata
 anthropic
+pytest
+pytest-mock
+pytest-cov
